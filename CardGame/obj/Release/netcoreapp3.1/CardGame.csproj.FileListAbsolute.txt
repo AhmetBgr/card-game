@@ -1,0 +1,10 @@
+E:\CardGame\bin\Release\netcoreapp3.1\CardGame.exe
+E:\CardGame\bin\Release\netcoreapp3.1\CardGame.deps.json
+E:\CardGame\bin\Release\netcoreapp3.1\CardGame.runtimeconfig.json
+E:\CardGame\bin\Release\netcoreapp3.1\CardGame.runtimeconfig.dev.json
+E:\CardGame\bin\Release\netcoreapp3.1\CardGame.dll
+E:\CardGame\bin\Release\netcoreapp3.1\CardGame.pdb
+E:\CardGame\obj\Release\netcoreapp3.1\CardGame.AssemblyInfoInputs.cache
+E:\CardGame\obj\Release\netcoreapp3.1\CardGame.AssemblyInfo.cs
+E:\CardGame\obj\Release\netcoreapp3.1\CardGame.dll
+E:\CardGame\obj\Release\netcoreapp3.1\CardGame.pdb
