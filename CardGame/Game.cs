@@ -37,13 +37,13 @@ namespace CardGame
         public void PreparePlayers()
         {
             Player player1 = new Player();
-            player1.playerName = "Player1"; // controls by player
+            player1.playerName = "Player1"; // Controled by player
 
             Player player2 = new Player();
-            player2.playerName = "Player2"; // Controls by CPU
+            player2.playerName = "Player2"; // Controled by CPU
 
             Player player3 = new Player();
-            player3.playerName = "Player3"; // Controls by CPU
+            player3.playerName = "Player3"; // Controled by CPU
 
             players[0] = player1;   
             players[1] = player2;   
